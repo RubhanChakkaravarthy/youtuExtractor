@@ -1,0 +1,10 @@
+# Editor Folders
+.idea
+.vscode
+.vs
+
+# Build Folders
+**/bin
+**/obj
+
+**/*.DotSettings
